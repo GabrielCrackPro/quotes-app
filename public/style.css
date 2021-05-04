@@ -21,3 +21,32 @@
   text-decoration: underline;
   transform: all 0.3s ease;
 }
+.quote {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin-top: 5px;
+  background: #c3c1c1;
+}
+#quote-text {
+  font-weight: bold;
+}
+#quote-author {
+  font-style: italic;
+}
+button {
+  background: #0d2149;
+  color: #fff;
+  border: 1px solid #000;
+  border-radius: 25px;
+  padding: 5px;
+  margin-top: 10px;
+  margin-bottom: 5px;
+  cursor: pointer;
+}
+.unknown {
+  background: #3f0000;
+  cursor: not-allowed;
+  pointer-events: none;
+}
