@@ -9,10 +9,10 @@ Quotes are from <a href="https://type.fit/api/quotes" target="blank">here</a>
 - [x] Refactor into getQuote() function
 - [x] Add newQuote button
 - [x] Add aboutAuthor button
+- [x] App deployed <a href="http://quotesapp.surge.sh">here</a> 🌍
 
 ## TODO
 
 - Fix copyButton
 - Export quotes into a JSON file
 - Add responsive design
-- Deploy
