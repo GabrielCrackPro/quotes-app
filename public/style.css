@@ -21,6 +21,9 @@
   text-decoration: underline;
   transform: all 0.3s ease;
 }
+#about-menu {
+  margin-left: 80%;
+}
 .quote {
   display: flex;
   flex-direction: column;
